@@ -4,8 +4,8 @@
 
 ### Follow my blog
 
-- [blog] (https://www.linkedin.com/in/vishal-raj-01baa2197/)
+- [blog](https://www.linkedin.com/in/vishal-raj-01baa2197/)
 
 ### And to know more about me follow me on:
 
-- [Linkedin] (https://www.linkedin.com/in/vishal-raj-01baa2197/)
+- [Linkedin](https://www.linkedin.com/in/vishal-raj-01baa2197/)
